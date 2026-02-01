@@ -63,6 +63,8 @@ export default function App() {
             borderRadius: '25px',
             border: '2px solid #ffb6c1',
             outline: 'none',
+            backgroundColor: 'white',
+            color: '#333',
           }}
         />
         <button
